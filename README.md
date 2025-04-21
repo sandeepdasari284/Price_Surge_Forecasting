@@ -16,7 +16,7 @@ market factors, providing actionable insights for strategic decision-making in p
 policy development, and consumer planning. 
 
 
-**1.	Introduction:\**
+**1.	Introduction:**\
 The global market is becoming increasingly volatile due to economic policies, trade regulations, and supply chain disruptions. Price swings brought on by tariffs, trade restrictions, and supply chain interruptions present serious challenges for companies, decision-makers, and consumers in the modern global economy. Unpredictable price increases affect financial planning, procurement strategies, and overall market stability. Data-driven forecasting models are essential for organizations to anticipate these variations and mitigate associated risks.
 The current state of research in this field shows growing interest in applying machine learning and artificial intelligence techniques to economic forecasting problems. Previous studies have explored the impact of trade policies on specific industries and commodities, but few have developed comprehensive models that account for the complex interplay of tariffs, supply chain factors, and market dynamics across multiple product categories.
 This research aims to address this gap by developing a Pricing Surge Forecasting model that predicts price fluctuations resulting from these external factors, particularly focusing on the impact of tariffs and supply chain constraints on market stability. By leveraging machine learning techniques and time-series forecasting, this project seeks to develop a predictive framework that can help businesses, policymakers, and consumers proactively respond to market changes.
