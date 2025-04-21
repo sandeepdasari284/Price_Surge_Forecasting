@@ -28,7 +28,7 @@ This research leverages comprehensive datasets collected from authoritative gove
 •	United States Department of Agriculture (USDA): Agricultural price data, import/export statistics, and commodity market information\
 •	Bureau of Labor Statistics (BLS): Producer Price Index (PPI), Consumer Price Index (CPI), and other inflation metrics\
 •	Federal Reserve Economic Data (FRED): Economic indicators and market performance metrics\
-•	Other government sources: Supply chain performance indices, transportation metrics, and logistics data\
+•	Other government sources: Supply chain performance indices, transportation metrics, and logistics data
 
 
 The collected data includes:
