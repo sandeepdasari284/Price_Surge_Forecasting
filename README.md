@@ -23,8 +23,8 @@ This research aims to address this gap by developing a Pricing Surge Forecasting
 The principal objective is to create a prediction model that can offer early warnings of price volatility by examining historical pricing data, supply chain indices, and tariff announcement data. The findings will help businesses optimize procurement strategies, policymakers make informed trade decisions, and consumers anticipate potential cost fluctuations in essential goods and services.
 
 2.	Materials and Methods:
-2.1. Data Collection and Sources
-This research leverages comprehensive datasets collected from authoritative government sources:
+2.1. Data Collection and Sources\
+This research leverages comprehensive datasets collected from authoritative government sources:\
 •	United States Department of Agriculture (USDA): Agricultural price data, import/export statistics, and commodity market information\
 •	Bureau of Labor Statistics (BLS): Producer Price Index (PPI), Consumer Price Index (CPI), and other inflation metrics\
 •	Federal Reserve Economic Data (FRED): Economic indicators and market performance metrics\
