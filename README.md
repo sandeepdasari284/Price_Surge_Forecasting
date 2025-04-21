@@ -25,10 +25,10 @@ The principal objective is to create a prediction model that can offer early war
 2.	Materials and Methods:
 2.1. Data Collection and Sources
 This research leverages comprehensive datasets collected from authoritative government sources:
-•	United States Department of Agriculture (USDA): Agricultural price data, import/export statistics, and commodity market information
-•	Bureau of Labor Statistics (BLS): Producer Price Index (PPI), Consumer Price Index (CPI), and other inflation metrics
-•	Federal Reserve Economic Data (FRED): Economic indicators and market performance metrics
-•	Other government sources: Supply chain performance indices, transportation metrics, and logistics data
+•	United States Department of Agriculture (USDA): Agricultural price data, import/export statistics, and commodity market information\
+•	Bureau of Labor Statistics (BLS): Producer Price Index (PPI), Consumer Price Index (CPI), and other inflation metrics\
+•	Federal Reserve Economic Data (FRED): Economic indicators and market performance metrics\
+•	Other government sources: Supply chain performance indices, transportation metrics, and logistics data\
 
 
 The collected data includes:
