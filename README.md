@@ -38,7 +38,8 @@ While the dataset does not directly include tariff implementation dates or rates
 1.	Historical research of major tariff implementation events affecting food imports
 2.	Integration of publicly available tariff announcement dates from government sources
 
-2.2. Model Development: MLP Forecasting Approach
+2.2. Model Development: 
+MLP Forecasting Approach
 The core of this research is the implementation of Multi-Layer Perceptron (MLP) Forecasting, which allows for simultaneous prediction of price movements across multiple product categories. The MLP approach is particularly suitable for this problem because:
 1.	It can capture non-linear relationships between input features and price movements
 2.	It allows for modelling complex interactions between product categories
