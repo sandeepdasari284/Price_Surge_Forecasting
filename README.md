@@ -56,4 +56,4 @@ Model performance is evaluated using:\
 •	Root Mean Square Error (RMSE)\
 •	Mean Absolute Percentage Error (MAPE)\
 •	Directional accuracy (correct prediction of price increase/decrease)\
-•	Category-specific performance metrics\
+•	Category-specific performance metrics
