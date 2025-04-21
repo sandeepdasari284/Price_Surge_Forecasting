@@ -44,8 +44,9 @@ The core of this research is the implementation of Multi-Layer Perceptron (MLP) 
 1.	It can capture non-linear relationships between input features and price movements
 2.	It allows for modelling complex interactions between product categories
 3.	It can incorporate both numerical and categorical features effectively
-4.	It can be adapted to predict multiple time horizons simultaneously
-The MLP architecture consists of:
+4.	It can be adapted to predict multiple time horizons simultaneously\
+
+**The MLP architecture consists of:**
 •	Input Layer: Features derived from historical pricing data, seasonality indicators, and tariff-related factors\
 •	Hidden Layers: Multiple dense layers with non-linear activation functions (ReLU)\
 •	Output Layer: Predicted prices for each product category under tariff implementation scenarios
