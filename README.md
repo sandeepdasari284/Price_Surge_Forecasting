@@ -22,7 +22,7 @@ The current state of research in this field shows growing interest in applying m
 This research aims to address this gap by developing a Pricing Surge Forecasting model that predicts price fluctuations resulting from these external factors, particularly focusing on the impact of tariffs and supply chain constraints on market stability. By leveraging machine learning techniques and time-series forecasting, this project seeks to develop a predictive framework that can help businesses, policymakers, and consumers proactively respond to market changes.
 The principal objective is to create a prediction model that can offer early warnings of price volatility by examining historical pricing data, supply chain indices, and tariff announcement data. The findings will help businesses optimize procurement strategies, policymakers make informed trade decisions, and consumers anticipate potential cost fluctuations in essential goods and services.
 
-**2.	Materials and Methods:**\
+**2.	Materials and Methods:** \
 2.1. Data Collection and Sources\
 This research leverages comprehensive datasets collected from authoritative government sources:\
 •	United States Department of Agriculture (USDA): Agricultural price data, import/export statistics, and commodity market information\
@@ -38,7 +38,7 @@ While the dataset does not directly include tariff implementation dates or rates
 1.	Historical research of major tariff implementation events affecting food imports
 2.	Integration of publicly available tariff announcement dates from government sources
 
-**2.2. Model Development: **\
+**2.2. Model Development:** \
 MLP Forecasting Approach
 The core of this research is the implementation of Multi-Layer Perceptron (MLP) Forecasting, which allows for simultaneous prediction of price movements across multiple product categories. The MLP approach is particularly suitable for this problem because:
 1.	It can capture non-linear relationships between input features and price movements
@@ -50,10 +50,10 @@ The MLP architecture consists of:
 •	Hidden Layers: Multiple dense layers with non-linear activation functions (ReLU)\
 •	Output Layer: Predicted prices for each product category under tariff implementation scenarios
 
-Evaluation Metrics
-Model performance is evaluated using:
-•	Mean Absolute Error (MAE)
-•	Root Mean Square Error (RMSE)
-•	Mean Absolute Percentage Error (MAPE)
-•	Directional accuracy (correct prediction of price increase/decrease)
-•	Category-specific performance metrics
+**Evaluation Metrics** \
+Model performance is evaluated using:\
+•	Mean Absolute Error (MAE)\
+•	Root Mean Square Error (RMSE)\
+•	Mean Absolute Percentage Error (MAPE)\
+•	Directional accuracy (correct prediction of price increase/decrease)\
+•	Category-specific performance metrics\
